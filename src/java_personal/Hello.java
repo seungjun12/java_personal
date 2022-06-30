@@ -13,5 +13,9 @@ public class Hello {
 		//확인 확인 한번더
 		System.out.println(a+b);
 		
+		System.out.println("Hello World");
+		System.out.println("Hello World");
+		
+		
 	}//main() end
 }//class end
