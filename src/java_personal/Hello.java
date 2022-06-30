@@ -10,7 +10,7 @@ public class Hello {
 		int b=3;
 		int c=3;
 		System.out.println(c+a);
-		//확인
+		//확인 확인 한번더
 		System.out.println(a+b);
 		
 	}//main() end
